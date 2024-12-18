@@ -1,0 +1,12 @@
+{
+  "name": "@allnulled/cpp-polyfill",
+  "version": "1.0.0",
+  "description": "Execute C or C++ code from Node.js in sync.",
+  "main": "cpp-polyfill.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["cpp", "languages", "polyfill", "c", "sync"],
+  "author": "allnulled",
+  "license": "WTFPL"
+}
